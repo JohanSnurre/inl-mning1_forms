@@ -37,7 +37,7 @@ namespace inlämningsuppgift1_forms
                 if (txtBox_price.Text.Equals(""))
                 {
                     lbl_answer.Text = "Vänligen skriv in en summa pengar i respektive ruta";
-                    return;
+                   
                 }
                 lbl_answer.Text = "Någon av rutorna har en ogiltig summa med pengar";
                 return; 
@@ -71,10 +71,10 @@ namespace inlämningsuppgift1_forms
                 if (txtBox_paid.Text.Equals(""))
                 {
                     lbl_answer.Text = "Vänligen skriv in en summa pengar i respektive ruta";
-                    return;
+                    
                 }
                 lbl_answer.Text = "Någon av rutorna har en ogiltig summa med pengar";
-               
+                return;
             }
 
             procedure();                                      //Returns the payment
