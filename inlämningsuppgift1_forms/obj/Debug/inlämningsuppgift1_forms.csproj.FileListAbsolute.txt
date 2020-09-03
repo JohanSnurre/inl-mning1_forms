@@ -1,0 +1,9 @@
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\bin\Debug\inlämningsuppgift1_forms.exe.config
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\bin\Debug\inlämningsuppgift1_forms.exe
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\bin\Debug\inlämningsuppgift1_forms.pdb
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\obj\Debug\inlämningsuppgift1_forms.csprojAssemblyReference.cache
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\obj\Debug\inlämningsuppgift1_forms.Form1.resources
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\obj\Debug\inlämningsuppgift1_forms.Properties.Resources.resources
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\obj\Debug\inlämningsuppgift1_forms.csproj.GenerateResource.cache
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\obj\Debug\inlämningsuppgift1_forms.exe
+C:\Users\Johan\source\repos\inlämningsuppgift1_forms\inlämningsuppgift1_forms\obj\Debug\inlämningsuppgift1_forms.pdb
