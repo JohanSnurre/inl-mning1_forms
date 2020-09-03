@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Author: Johan Larsson -> Johlax-8
+
 namespace inlämningsuppgift1_forms
 {
     public partial class Form1 : Form
